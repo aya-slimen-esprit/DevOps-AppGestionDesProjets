@@ -227,3 +227,7 @@ pipeline {
 ## 👤 Auteur
 
 **ESPRIT — UP ASI**  
+
+## 🔔 Test Webhook Jenkins
+
+Test du déclenchement automatique Jenkins via Webhook GitHub.
